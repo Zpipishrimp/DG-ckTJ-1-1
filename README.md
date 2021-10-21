@@ -1,3 +1,7 @@
+# 致谢
+作者：WindFgg  
+  
+[原链接](https://github.com/WindFgg/kingfeng)
 # KingFeng
 
 <p align="center">
@@ -27,8 +31,6 @@ KingFeng不支持任何arm架构设备
 本项目 不提供 `技术上的任何帮助`
 
 本项目 **暂停更新一段时间**
-
-[TG 频道](https://t.me/joinchat/H3etBWYzLKpiMWVl)    [TG 群组](https://t.me/joinchat/XV2AZcvzFIUxNjI9)
 
 ## 支持的架构
 ![image](https://user-images.githubusercontent.com/87279659/137679751-7c2e901f-0429-4c5c-a6d2-120b8848048f.png)
